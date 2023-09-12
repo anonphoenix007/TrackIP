@@ -28,7 +28,7 @@ def banner():
     auth = f"{G}Author: Freddy Phoenix Mills"
     vers = "Version: 1.0"
     mail = "Email: phoenixgibson007@gmail.com
-    github = "https://github.com/Anonphoenix007{RESET}"
+    github = "Github: https://github.com/Anonphoenix007{RESET}"
     auth1 = auth #.center(width)
     vers1 = vers #.center(width)
     mail1 = mail #.center(width)
