@@ -27,14 +27,15 @@ def banner():
 #    print(cent)
     auth = f"{G}Author: Freddy Phoenix Mills"
     vers = "Version: 1.0"
-    mail = "Email: phoenixgibson007@gmail.com{RESET}"
+    mail = "Email: phoenixgibson007@gmail.com
+    github = "https://github.com/Anonphoenix007{RESET}"
     auth1 = auth #.center(width)
     vers1 = vers #.center(width)
     mail1 = mail #.center(width)
     print(auth.center(width))
     print(vers.center(width))
     print(mail.center(width))
-
+    print(github.center(width))
 app_name=sys.argv[0]
 parser = OptionParser()
 parser.add_option("-i", "--address", dest="address", help="Ip address to track amd lookup")
